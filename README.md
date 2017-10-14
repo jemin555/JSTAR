@@ -6,10 +6,11 @@ JSTAR   is  a Programming  Language  focused  on remote  webdesign  and
 which is  invented in  JAVA and  C#  by  wilmix  jemin j  @  2017.
 
 
-==================================================================================
+
   Introduction to    Jstar  Programming  Language
-                                                                     
-==================================================================================
+   ==============================================                                                             
+
+
 Definition:
 =========
 
